@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Skeleton screen creator for a better Web",
   "keywords": [
-    "css",
     "skeleton",
-    "react"
+    "react",
+    "css"
   ],
   "main": "src/index.js",
   "dependencies": {
